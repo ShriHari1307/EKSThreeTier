@@ -1,6 +1,3 @@
-Here is the updated version of the document without the file structure section:
-
----
 
 # Deploying 3-tier Application in Kubernetes
 
